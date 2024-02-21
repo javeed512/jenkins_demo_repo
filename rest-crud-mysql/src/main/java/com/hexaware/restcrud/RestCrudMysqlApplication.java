@@ -8,6 +8,9 @@ public class RestCrudMysqlApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RestCrudMysqlApplication.class, args);
+
+		System.out.println("Javeed updated RestCrud main() ....");
+
 	}
 
 }
